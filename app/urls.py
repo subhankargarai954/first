@@ -5,4 +5,3 @@ from app.views import *
 urlpatterns = [
     path('balaji/', balaji, name='balaji')
     ]
-
